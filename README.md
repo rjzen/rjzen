@@ -1,6 +1,6 @@
-<!-- Profile Banner (Optional - replace the link with your banner image) -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/z4d4kWk.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/x7p4a5f.png" alt="Futuristic Landscape Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ratunil</h1>
