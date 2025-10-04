@@ -39,10 +39,10 @@
 
 ---
 
-## 🎮 Play my mini-game — Star Catcher
-Try catching falling stars! Click below to play.
+## 💡 Play my mini-game — Tech Master Quiz
+Test your knowledge of IoT, Databases, SDLC, and Software Engineering!
 
-[![Play Star Catcher](https://img.shields.io/badge/Play-Star%20Catcher-ffb86b?style=for-the-badge&logo=gamepad)](https://rjzen.github.io/star-catcher/)
+[![Play Tech Master Quiz](https://img.shields.io/badge/Play-Tech%20Master%20Quiz-61dafb?style=for-the-badge&logo=code)](https://rjzen.github.io/star-catcher/)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
