@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a syllabus management system to help teachers save time and stay organized.<br><br>🤝 I’m looking to collaborate on open-source projects that make education and productivity tools better.<br><br>👐 I’m looking for help with improving UI/UX design for web apps.<br><br>🌱 I’m currently learning more about React, Django, and machine learning workflows.<br><br>💬 Ask me about building full-stack apps, database design, or turning ideas into prototypes.<br><br>
+🔭 I'm currently seeking an On-the-Job Training (OJT) opportunity in Information Technology where I can apply my academic knowledge, programming skills, and problem-solving abilities while gaining hands-on industry experience. .<br><br>🤝 I’m looking to collaborate on open-source projects that make education and productivity tools better.<br><br>👐 I’m looking for help with improving UI/UX design for web apps.<br><br>🌱 I’m currently learning more about React, Django, and machine learning workflows.<br><br>💬 Ask me about building full-stack apps, database design, or turning ideas into prototypes.<br><br>
 
 
 ## 🌐 Socials:
