@@ -1,10 +1,12 @@
 <!-- ======================= PROFILE CARD ======================= -->
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" />
   
   # **Josiah Ratunil**
   ### *Aspiring Full-Stack Developer • IT Student • Open-Source Contributor*
+
+  <!-- View Counter -->
+  ![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
 
   <img src="https://metrics.lecoq.io/rjzen?template=classic&base=header&config.timezone=Asia%2FManila" width="850" />
 </div>
@@ -29,18 +31,6 @@
 
 # 🚀 **GitHub Metrics Dashboard**
 > *Dark theme • Data-rich layout • Auto-updating widgets*
-
-### 📊 **Full Metrics Panel**
-<img src="https://metrics.lecoq.io/rjzen?template=classic&repositories.forks=true&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FManila" width="100%" />
-
----
-
-# 🧱 **3D Contribution Graph**
-> *Like the one in your reference image*
-
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/master/docs/demo/profile-3d-contrib-rjzen.svg" width="100%" />
-
----
 
 # 📈 **PageSpeed Insights**
 > *Scores for your portfolio or website*
