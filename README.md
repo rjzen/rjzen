@@ -8,7 +8,6 @@
   <!-- View Counter -->
   ![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
 
-  <img src="https://metrics.lecoq.io/rjzen?template=classic&base=header&config.timezone=Asia%2FManila" width="850" />
 </div>
 
 ---
@@ -30,10 +29,10 @@
 ---
 
 # 🚀 **GitHub Metrics Dashboard**
-> *Dark theme • Data-rich layout • Auto-updating widgets*
+
 
 # 📈 **PageSpeed Insights**
-> *Scores for your portfolio or website*
+
 
 | Metric | Score |
 |-------|-------|
@@ -42,7 +41,6 @@
 | **Best Practices** | ![](https://img.shields.io/badge/100-03A9F4?style=for-the-badge) |
 | **SEO** | ![](https://img.shields.io/badge/100-FFEA00?style=for-the-badge) |
 
-_(Replace scores with your real PageSpeed numbers if you want.)_
 
 ---
 
@@ -55,7 +53,6 @@ _(Replace scores with your real PageSpeed numbers if you want.)_
 ---
 
 # 🧩 **Technologies & Tools**
-> *Clean badge-style display*
 
 ### **Languages**
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,c)
