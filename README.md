@@ -13,7 +13,7 @@
 ---
 
 # 🧑‍💻 **About Me**
-- 🔭 Currently seeking **On-the-Job Training (OJT)** in **Information Technology**  
+- 🔭 Currently on my **On-the-Job Training (OJT)** in **Information Technology**  
 - 🤝 Open to collaborating on **open-source productivity & education tools**  
 - 🎨 Learning **better UI/UX practices for web apps**  
 - 🌱 Expanding skills in **React, Django, and Machine Learning workflows**  
