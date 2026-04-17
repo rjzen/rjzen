@@ -3,7 +3,7 @@
 <div align="center">
   
   # **Josiah Ratunil**
-  ### *Aspiring Full-Stack Developer • IT Student • Open-Source Contributor*
+  ### *Full-Stack Developer • IT Student • Open-Source Contributor*
 
   <!-- View Counter -->
   ![](https://komarev.com/ghpvc/?username=rjzen&label=Profile%20Views&color=blue&style=for-the-badge)
