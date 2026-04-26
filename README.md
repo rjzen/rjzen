@@ -13,12 +13,14 @@
 ---
 
 # 🧑‍💻 **About Me**
-- 🔭 Currently on my **On-the-Job Training (OJT)** in **Information Technology**  
-- 🤝 Open to collaborating on **open-source productivity & education tools**  
-- 🎨 Learning **better UI/UX practices for web apps**  
+- 💼 Currently working **part-time** on **School Management Systems**  
+- 🗄️ Handling **database servers**, **data management**, and system maintenance  
+- 🔧 Experienced in **full-stack development** and improving existing systems  
+- 🤝 Open to collaborating on **education tech and productivity tools**  
+- 🎨 Continuously improving **UI/UX for web applications**  
 - 🌱 Expanding skills in **React, Django, and Machine Learning workflows**  
 - 💬 Ask me about:  
-  **full-stack development**, **database architecture**, **designing prototypes**
+  **full-stack development**, **database management**, **system optimization**, **prototyping**
 
 ---
 
