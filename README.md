@@ -30,30 +30,6 @@
 
 ---
 
-# 🚀 **GitHub Metrics Dashboard**
-
-
-# 📈 **PageSpeed Insights**
-
-
-| Metric | Score |
-|-------|-------|
-| **Performance** | ![](https://img.shields.io/badge/97-00C853?style=for-the-badge) |
-| **Accessibility** | ![](https://img.shields.io/badge/100-2962FF?style=for-the-badge) |
-| **Best Practices** | ![](https://img.shields.io/badge/100-03A9F4?style=for-the-badge) |
-| **SEO** | ![](https://img.shields.io/badge/100-FFEA00?style=for-the-badge) |
-
-
----
-
-# 🎧 **Music Suggestions (like in the reference image)**
-
-### *From Apple Music*
-🎵 **Bipolar Nightmare** — *Keigo Hoashi*  
-🎵 **Mutter** — *Rammstein*  
-
----
-
 # 🧩 **Technologies & Tools**
 
 ### **Languages**
