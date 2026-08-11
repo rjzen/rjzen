@@ -124,20 +124,6 @@ Test your knowledge and challenge yourself across different technology and softw
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rjzen&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff1493&text_color=ffffff&bg_color=000000" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjzen&theme=radical&hide_border=true&background=000000&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4" />
-
-</div>
-
----
-
 ## 🩷 **Currently Building**
 
 ```text
