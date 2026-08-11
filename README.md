@@ -12,7 +12,7 @@
 
 <br>
 
-# **Josiah Ratunil**
+# **Josiah Joshua D. Ratunil**
 
 ### *Full-Stack Developer • IT Student*
 
