@@ -56,18 +56,6 @@
 
 ---
 
-## 🧑‍💻 **About Me**
-
-* 💼 Currently working **part-time** on **School Management Systems**
-* 🗄️ Handling **database servers**, **data management**, and system maintenance
-* 🔧 Experienced in **full-stack development** and improving existing systems
-* 🤝 Open to collaborating on **education technology and productivity tools**
-* 🎨 Continuously improving **UI/UX for web applications**
-* 🌱 Expanding my skills in **React, Django, and Machine Learning workflows**
-* 💬 Ask me about **full-stack development**, **database management**, **system optimization**, and **prototyping**
-
----
-
 ## 🌐 **Connect With Me**
 
 <a href="https://www.linkedin.com/in/ratunil30">
@@ -77,22 +65,6 @@
 <a href="mailto:ratunil.josiah30@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff69b4" />
 </a>
-
----
-
-## 🧩 **Technologies & Tools**
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,c&theme=dark" />
-
-### ⚡ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap,tailwind,laravel&theme=dark" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&theme=dark" />
 
 ---
 
@@ -106,20 +78,6 @@ Test your knowledge in:
 
 <a href="https://rjzen.github.io/star-catcher/">
   <img src="https://img.shields.io/badge/🎮%20PLAY%20TECH%20MASTER%20QUIZ-ff1493?style=for-the-badge&logo=react&logoColor=white" />
-</a>
-
----
-
-## 📌 **Pinned Project**
-
-### ⭐ **Tech Master Quiz**
-
-A browser-based interactive quiz game built with **JavaScript**.
-
-Test your knowledge and challenge yourself across different technology and software engineering topics.
-
-<a href="https://rjzen.github.io/star-catcher/">
-  <img src="https://img.shields.io/badge/PLAY%20GAME-111111?style=for-the-badge&logo=github&logoColor=ff69b4" />
 </a>
 
 ---
